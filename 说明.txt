@@ -1,6 +1,0 @@
-bussinessUAT_temp_20191230102048.apk
-    temp_20191230103542.ipa
-    temp_20191230103542.plist.txt
-    temp_20200103114243.ipa
-    temp_20200103114243.plist.txt
-    temp_20200103114346.apk
