@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-                    <string>https://github.com/jiangzdongw/rlb.kh/releases/download/1.0.0/personalFZ_temp_20200103114243.ipa</string>
+                    <string>https://github.com/jiangzdongw/rlb.kh/releases/download/1.0.0/personal-fz-20200103114243.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>FZ-personal</string>
+				<string>personal-fz</string>
 			</dict>
 		</dict>
 	</array>
