@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://124.250.89.81:10080/appbuilder/app/getfile.do?fileName=temp_20201105165632.ipa</string>
+					<string>https://github.com/jiangzdongw/rlb.kh/releases/download/rlb-mobile-beta-1.0.0/rlb-mobile-beta-1.0.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
